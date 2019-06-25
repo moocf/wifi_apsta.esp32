@@ -1,5 +1,5 @@
 Start WiFi as access point + station.<br>
-*AP mode does not support AP scan.*
+*AP+station mode supports AP scan.*
 
 ```text
 includePath:
